@@ -2,7 +2,7 @@
 
 [[Paper]](https://github.com/Joshimello/SpeechIdentification/raw/main/paper.pdf)
 
-We present an approach to multiclass speechidentification, focusing on the simultaneous identification ofmultiple speakers in an audio stream. Utilizing a deep neuralnetwork, our method demonstrates potential in differentiatingand recognizing individual speakers from a composite audiosignal. The system's effectiveness is evaluated throughexperiments, showcasing its applicability in diverse real-worldscenarios where multiple-speaker recognition is crucial.
+We present an approach to multiclass speech identification, focusing on the simultaneous identification of multiple speakers in an audio stream. Utilizing a deep neural network, our method demonstrates potential in differentiating and recognizing individual speakers from a composite audio signal. The system's effectiveness is evaluated through experiments, showcasing its applicability in diverse real-world scenarios where multiple-speaker recognition is crucial.
 
 
 ## Repo files
